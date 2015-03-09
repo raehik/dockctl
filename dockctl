@@ -18,3 +18,5 @@ case "$1" in
         xrandr --output $main_output --auto $location $extra_output
         ;;
 esac
+
+"$HOME/.fehbg"
